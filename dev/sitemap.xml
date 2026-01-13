@@ -169,6 +169,10 @@
          <lastmod>2026-01-13</lastmod>
     </url>
     <url>
+         <loc>https://docs.sleap.ai/dev/api/gui/dialogs/render_clip/</loc>
+         <lastmod>2026-01-13</lastmod>
+    </url>
+    <url>
          <loc>https://docs.sleap.ai/dev/api/gui/dialogs/shortcuts/</loc>
          <lastmod>2026-01-13</lastmod>
     </url>
@@ -270,6 +274,10 @@
     </url>
     <url>
          <loc>https://docs.sleap.ai/dev/api/gui/widgets/multicheck/</loc>
+         <lastmod>2026-01-13</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.sleap.ai/dev/api/gui/widgets/rendering_preview/</loc>
          <lastmod>2026-01-13</lastmod>
     </url>
     <url>
